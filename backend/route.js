@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-
+const cors = require("cors");
 const User = require("./model/User");
 
 const validateContact = (contact) => {
@@ -22,7 +22,8 @@ const validateAge = (dateOfBirth) => {
 };
 
 // Post request
-router.post("/user", (req, res) => {
+router.post("/user", cors(), (req, res) => {
+
   const {
     firstName,
     lastName,
