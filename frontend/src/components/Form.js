@@ -47,7 +47,7 @@ const Form =({setAlert, setError}) => {
       paymentMode,   
      };
     try {
-      await axios.post(`http://localhost:5000/user`, formData);
+      await axios.post(`https://yoga-classes-form-server.onrender.com/user`, formData);
       setAlert(true);
     setTimeout(() => {
       setAlert(false);
