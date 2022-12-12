@@ -22,15 +22,6 @@ Registration form  for a yoga class
   npm start
 ```
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Visit
 
