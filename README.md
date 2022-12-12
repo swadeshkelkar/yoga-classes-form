@@ -37,8 +37,9 @@ Install my-project with npm
 https://yoga-classes-form.netlify.app/
 ## Screenshots
 
-![App Screenshot](https://github.com/swadeshkelkar/yoga-classes-form/blob/master/frontend/src/image/yoga.png)
+1. Blank Form
 ![App Screenshot](https://github.com/swadeshkelkar/yoga-classes-form/blob/master/frontend/src/image/form.png)
+2. Filled Form
 ![App Screenshot](https://github.com/swadeshkelkar/yoga-classes-form/blob/master/frontend/src/image/filled.png)
 
 
