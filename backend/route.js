@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const User = require("./model/user");
+const User = require("./model/User");
 
 const validateContact = (contact) => {
   const re = /^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$/;
