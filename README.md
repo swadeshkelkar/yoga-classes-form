@@ -41,4 +41,6 @@ https://yoga-classes-form.netlify.app/
 **Server:** Node, Express
 
 **Database:** MongoDB
+## ER Diagram
 
+![App Screenshot](https://github.com/swadeshkelkar/yoga-classes-form/blob/master/frontend/src/image/er-diagram.png)
